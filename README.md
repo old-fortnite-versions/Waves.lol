@@ -3,7 +3,7 @@ Website Coming Soon...
 # Status
 Prefix: ?
 
-Status: ❌Down/Not Working❌ (working on a fix)
+Status: ❌Down/Not Working❌ (prob going to be fixed in the next 30 mins)
 # Commands ( make sure to delete the () )
 Play: ?play (music you want here)
 ----------------------------------------
