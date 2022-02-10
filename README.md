@@ -1,6 +1,7 @@
 # Update 1.0.2
--Added buttons instead of reactions
+-Added commands instead of reactions
 
+(next update: buttons instead of commands hopefully)
 
 # Waves.lol
 Website Coming Soon...
@@ -11,18 +12,17 @@ Status: ☑Up/working☑ (sorry it took so long but the team have fixed it)
 # Commands ( make sure to delete the () )
 Play: ?play (music you want here)
 ----------------------------------------
-Loop: ?loop (or press the 🔁 recation)
+Loop: ?loop 
 ----------------------------------------
-Stop: ?stop (or press the ⏹ reaction)
+Stop: ?stop 
 ----------------------------------------
-Pause: ?pause (or press the ⏯ reaction)
+Pause: ?pause 
 ----------------------------------------
-Mute: ?mute (or press the 🔇 reaction)
+Mute: ?mute 
 ----------------------------------------
-Volume down: press the 🔉 reaction
+Volume: ?volume (volume you want here)
 ----------------------------------------
-Volume up: press the 🔊 reaction
-----------------------------------------
+
 # Credits 
 Website Creator: @savage_beast7000#3801
 
