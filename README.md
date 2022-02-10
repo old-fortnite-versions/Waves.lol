@@ -1,9 +1,13 @@
+# Update 1.0.2
+-Added buttons instead of reactions
+
+
 # Waves.lol
 Website Coming Soon...
 # Status
 Prefix: ?
 
-Status: ❌Down/Not Working❌ (prob going to be fixed in the next 30 mins)
+Status: ☑Up/working☑ (sorry it took so long but the team have fixed it)
 # Commands ( make sure to delete the () )
 Play: ?play (music you want here)
 ----------------------------------------
