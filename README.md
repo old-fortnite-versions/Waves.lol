@@ -29,11 +29,11 @@ Status: ☑Up/working☑ (sorry it took so long but the team have fixed it)
 - `help [COMMAND]`      --    *Gives you a list of all help Commands*
   
 # Credits 
-Website Creator: @savage_beast7000#3801
+Website Creator: [@savage_beast7000#3801](https://discord.gg/YZF4pKw2XC)
 
-Commands Creator: @savage_beast7000#3801
+Commands Creator: [@savage_beast7000#3801](https://discord.gg/YZF4pKw2XC)
 
 Main Bot Source Code Creator: Me
 
 ----------------------------------------
-HUGE THANKS TO SAVAGE_BEAST7000
+HUGE THANKS TO [SAVAGE_BEAST7000](https://discord.gg/YZF4pKw2XC)
