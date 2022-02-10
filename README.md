@@ -1,7 +1,7 @@
 # Update 1.0.3
 -Added back reactions
 
-(next update: buttons instead of commands hopefully)
+(next update: buttons instead of commands)
 
 # Waves.lol
 Website Coming Soon...
