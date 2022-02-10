@@ -15,7 +15,7 @@ Status: ☑Up/working☑ (sorry it took so long but the team have fixed it)
 - `lyrics`              --    *Get lyrics for the currently playing song*
 - `nowplaying`          --    *Show current song*
 - `pause`               --    *Pause the currently playing music*
-- `play <TITEL | URL>`  --    *Plays song from YouTube/Stream*
+- `play <TITLE | URL>`  --    *Plays song from YouTube/Stream*
 - `queue`               --    *Show the music queue and now playing*
 - `radio <RADIOSTATION>`--    *Play a Radiostation*
 - `remove`              --    *Remove song from the queue*
